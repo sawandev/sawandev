@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sawandev.
+- 👋 Hi, I’m Sawan Pereira.
 - 👀 I’m interested in gaining experience.
 - 🌱 I’m currently learning Java, JavaScript and Python OOP.
 - 💞️ I’m looking to collaborate on Python projects!
