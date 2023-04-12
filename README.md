@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Sawan Pereira.
 - 👀 I’m interested in gaining experience.
-- 🌱 I’m currently learning Java, JavaScript and Python OOP.
-- 💞️ I’m looking to collaborate on Python projects!
-- 📫 Find me on Instagram @im_sawannn or Gmail eprosawanpereira@gmail.com <-
+- Python/Delphi FMX
 
 ##
 
